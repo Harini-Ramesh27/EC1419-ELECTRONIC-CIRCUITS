@@ -12,14 +12,17 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
+CIRCUIT DIAGRAM:
+<img width="1080" height="788" alt="image" src="https://github.com/user-attachments/assets/cf08709d-7585-4581-a2f6-f7ae9c6f4b6b" />
+OUTPUT WAVEFORM:
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4480622e-3ad7-4d3c-96ad-94c9a2c28e34" />
 
-## Tabulation
+CALCULATION:
+<img width="899" height="834" alt="image" src="https://github.com/user-attachments/assets/73aed28f-3d11-4964-8947-b3f17890a8ec" />
+RESULT:
+thus the wein bridge oscillator was designed and simulated using LTspice
 
-## Graph
-
-<img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
-
-Practical frequency of Oscillation =
+Practical frequency of Oscillation =588hz
 
 
-Theoritical Frequency of Oscillation =
+Theoritical Frequency of Oscillation =159hz
