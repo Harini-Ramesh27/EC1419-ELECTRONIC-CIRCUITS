@@ -6,7 +6,13 @@
 
 <img width="756" height="368" alt="image" src="https://github.com/user-attachments/assets/aa815e31-1643-4c2b-afda-0c436818087e" />
 
-## Tabulations
+circuit diagram:
+<img width="899" height="507" alt="image" src="https://github.com/user-attachments/assets/1e090e4a-dabe-4359-91f8-528c4c4ad7b0" />
+
+output waveform:
+<img width="899" height="498" alt="image" src="https://github.com/user-attachments/assets/e3e5e3d9-4ab4-402d-8ee3-495c874a274b" />
+
+
 
 ## Graph
 
