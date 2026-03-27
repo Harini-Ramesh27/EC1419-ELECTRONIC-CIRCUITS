@@ -23,15 +23,16 @@
 <img width="420" height="320" alt="image" src="https://github.com/user-attachments/assets/47c2cdf5-9004-4e0f-89d0-c9eda45cf64c" />
 
 <img width="520" height="416" alt="image" src="https://github.com/user-attachments/assets/c8e67646-bb9d-4bf3-a4c9-6ba57b0d80f3" />
+CIRCUIT DIAGRAM LT SPICE AND OUTPUT WAVEFORM:
+<img width="939" height="1600" alt="image" src="https://github.com/user-attachments/assets/822f1dc1-ee3d-41b6-8704-da86cb9dfd86" />
 
-## Tabulation
-
-## Graph
+CALCULATION:
+<img width="1600" height="1195" alt="image" src="https://github.com/user-attachments/assets/ab822bda-bf41-4909-aca9-b0ce7ed23747" />
 
 
 ## **Result**
 <img width="787" height="63" alt="image" src="https://github.com/user-attachments/assets/96610a01-3638-4c67-8c6f-b3e6d2b1cc80" />
 
-**VOLTAGE GAIN =**
+**VOLTAGE GAIN =39db
 
-**BANDWIDTH =**
+**BANDWIDTH =19.9Mhz
